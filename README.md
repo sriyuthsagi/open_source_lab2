@@ -1,4 +1,4 @@
 * Sriyuth Sagi
-* ![bios](/Users/sriyuthsagi/Dropbox/Semester-5/CSCI-4961-Open-Source-Software/lab2part1/Photo on 5-24-19 at 10.38 AM)
+* ![bios](https://github.com/sriyuthsagi/open_source_lab2/blob/master/Photo%20on%205-24-19%20at%2010.38%20AM.jpg)
 * 2021
 * TensorFlow
